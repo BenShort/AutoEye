@@ -27,8 +27,8 @@ Note: all keys have been removed from this project, please generate new keys bef
 4. _Add the Device_
 5. _Lock your car when you park on the app_
 
-<img src="https://github.com/AdvikChitre/AutoEye/assets/71226807/5a9aaa9b-a4d5-42f9-8755-bbb793154a74" width="30%" height="30%"/>
+<img src="./documentation/AutoEyeDemo.gif" width="30%" height="30%"/>
 
 ## _Communication_
 
-![backend](https://github.com/AdvikChitre/AutoEye/assets/59978422/55a32e85-302d-455c-8110-81bb5bc2bfca)
+![backend](./documentation/SystemDiagram.png)
